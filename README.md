@@ -4,11 +4,11 @@
 This project is created and intended to be used for the Shopify Theme Development – Online Store 2.0 + TailwindCSS course
 
 
-[How to use](#how-to-use) | [Not a student?](#not-a-student)
+[How to use](#how-to-use) | [Note?](#note)
 
 ## covered
 
-Status | Lectures
+Status | Covered
 ------------ | -------------
 :heavy_check_mark: | Installing Development Tools
 :heavy_check_mark: | Navigational Bar
@@ -33,6 +33,6 @@ shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/abusaye
 
 If you don't have Shopify CLI installed to your computer, navigate to the [installation page of Shopify CLI](https://shopify.dev/themes/tools/cli/installation).
 
-## Not a student
+## Note
 
-If you're not a student, you can still use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development feel free to email me abusayedrussell@gmail.com.
+You can use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development feel free to email me abusayedrussell@gmail.com.
